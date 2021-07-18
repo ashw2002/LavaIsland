@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{AC2A972B-0BCF-A5AF-489C-A519FE103C5F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FpsLook.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Death.cs" Line="33" Column="17" />
+      <File FileName="Assets/Scripts/FpsLook.cs" Line="73" Column="14" />
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/EnmMove.cs" Line="55" Column="6" />
+      <File FileName="Assets/Scripts/LavaBallMaker.cs" Line="19" Column="104" />
+      <File FileName="Assets/Scripts/LavaBallDespawn.cs" Line="15" Column="29" />
+      <File FileName="Assets/Scripts/MenuScripts.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/RandomSpook.cs" Line="17" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
